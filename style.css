@@ -1,0 +1,11 @@
+@import url("https://cdn.web-fonts.ge/fonts/archyedt-thin/css/archyedt-thin.min.css");
+
+@font-face {
+  font-family: "BPG Algeti Compact";
+  src:
+    url("../fonts/bpg-algeti-compact-webfont.woff2") format("woff2"),
+    /* Super Modern Browsers */ url("../fonts/bpg-algeti-compact-webfont.woff")
+      format("woff"),
+    /* Pretty Modern Browsers */ url("../fonts/bpg-algeti-compact-webfont.ttf")
+      format("truetype"); /* Safari, Android, iOS */
+}
